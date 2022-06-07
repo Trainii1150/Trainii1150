@@ -8,7 +8,7 @@
 
 </details>
 
-<details><summary>Status</summary>
+<details><summary><strong>Status</strong></summary>
 
 ![Trainii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trainii1150&show_icons=true&theme=radical)
     
