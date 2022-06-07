@@ -1,3 +1,4 @@
+# About Me
 
 <details><summary><strong>Skill Lang</strong></summary>
 
@@ -20,58 +21,16 @@
     </tr>
     <tr>
         <td>
-            Bot Discord
+            Web Coffee (FrontEnd)
         </td>
         <td>
-            All in one bot for discord
+            First in Github 
         </td>
         <td>
-            <a href="https://github.com/PuemMTH/discord-bot-ts">Github</a>
+            <a href="https://github.com/Trainii1150/web-coffee">Github</a>
         </td>
         <td>
-            TypeScript
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Canvas image
-        </td>
-        <td>
-            Generate image from text
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/Canvas-Image">Github</a>
-        </td>
-        <td>
-            TypeScript
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Dictionary
-        </td>
-        <td>
-            C# Program to search word in dictionary
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/Dictionary-CSharp">Github</a>
-        </td>
-        <td>
-            C#
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Web Search Anime
-        </td>
-        <td>
-            Search anime from web
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/WebServer">Github</a>
-        </td>
-        <td>
-            JavaScript
+            Html Css Bootstrap 5
         </td>
     </tr>
 </table>
@@ -79,75 +38,6 @@
 </details>
 
 
-<details><summary><strong>Learning Lang </strong></summary>
 
 
-<!-- List Projact tag li lu table-->
-<table>
-    <tr>
-        <th>Lang</th>
-        <th>Description</th>
-        <th>Link</th>
-    </tr>
-    <tr>
-        <td>
-            Java
-        </td>
-        <td>
-            Learn Java
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/Java">Github</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            TypeScript 
-        </td>
-        <td>
-            Learn TypeScript 
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/TypeScript">Github</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            C
-        </td>
-        <td>
-            Learn C
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/beginner-c">Github</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            NodeJS
-        </td>
-        <td>
-            Package Express
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/express-learning">Github</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            NodeJS
-        </td>
-        <td>
-            Json Web Token (JWT)
-        </td>
-        <td>
-            <a href="https://github.com/PuemMTH/NodeJS-JWT-Simple">Github</a>
-        </td>
-    </tr>
-    
-    
-</table>
-
-</details>
-
-(https://github.com/PuemMTH/)
+(https://github.com/Trainii1150)
