@@ -8,6 +8,11 @@
 
 </details>
 
+<details><summary>![Trainii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trainii1150&show_icons=true&theme=radical)
+</summary>
+
+</details>
+
 <details><summary><strong>Project</strong></summary>
 
 
