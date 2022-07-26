@@ -44,16 +44,16 @@
     </tr>
     <tr>
         <td>
-            Gui C# Undo/Redo
+            Gui Undo/Redo
         </td>
         <td>
-            Gui Undo/Redo
+            Undo/Redo Use Stack (Data Structure)
         </td>
         <td>
             <a href="https://github.com/Trainii1150/UndoRedo">Github</a>
         </td>
         <td>
-            Html Css Bootstrap 5
+            C#
         </td>
     </tr>
 </table>
