@@ -1,6 +1,6 @@
 # About Me
 
-![fdfdfdf](https://user-images.githubusercontent.com/107059428/172431661-ad23bb29-c594-499d-86ee-37b71eb82705.png)
+![fdfdfdf](https://media.tenor.com/_4YgA77ExHEAAAAd/rick-roll.gif)
 
 
 <details><summary><strong>Skill Lang</strong></summary>
