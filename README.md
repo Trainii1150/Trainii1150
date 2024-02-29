@@ -1,9 +1,9 @@
 # About Me
 
 Hi 👋 My name is Rachata
-
+========================
 Student From Kasetsart University
----------------------------------
+
 
 ### Skills
 
