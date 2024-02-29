@@ -4,6 +4,8 @@ Hi 👋 My name is Rachata
 ========================
 Student From Kasetsart University 3rd of Computer Science
 
+<a href="https://www.github.com/Trainii1150" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Trainii1150?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
