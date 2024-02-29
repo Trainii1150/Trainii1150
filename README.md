@@ -2,7 +2,7 @@
 
 Hi 👋 My name is Rachata
 ========================
-Student From Kasetsart University
+Student From Kasetsart University 3rd of Computer Science
 
 
 ### Skills
