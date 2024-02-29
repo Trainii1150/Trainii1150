@@ -44,16 +44,16 @@
     </tr>
     <tr>
         <td>
-            Gui Undo/Redo
+            JangKenFight Game
         </td>
         <td>
-            Undo/Redo Use Stack (Data Structure)
+            It's a project about a game of rock-paper-scissors fighting
         </td>
         <td>
-            <a href="https://github.com/Trainii1150/UndoRedo">Github</a>
+            <a href="https://github.com/Trainii1150/JangKenFlightJavaMiniProject">Github</a>
         </td>
         <td>
-            C#
+            Java (Netbean)
         </td>
     </tr>
     <tr>
