@@ -47,7 +47,7 @@
             JangKenFight Game
         </td>
         <td>
-            It's a project about a game of rock-paper-scissors fighting
+            A game of rock-paper-scissors fighting
         </td>
         <td>
             <a href="https://github.com/Trainii1150/JangKenFlightJavaMiniProject">Github</a>
@@ -68,6 +68,20 @@
         </td>
         <td>
             Node.js Ejs
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Sucide Rate Prediction
+        </td>
+        <td>
+            Suicide rates that uses a model from Kaggle
+        </td>
+        <td>
+            <a href="https://github.com/Trainii1150/Sucide_people">Github</a>
+        </td>
+        <td>
+            Python
         </td>
     </tr>
 </table>
